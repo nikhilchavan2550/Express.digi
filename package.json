@@ -1,0 +1,23 @@
+{
+  "name": "ceoofearth",
+  "version": "1.0.0",
+  "description": "We are the Ceo of Earth",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "tea",
+    "Express"
+  ],
+  "author": "Nikhil Chavan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
